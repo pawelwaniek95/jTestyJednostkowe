@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
 /**
- * @author night
+ * @author Paweł Waniek
  * @since 02.03.2021
  */
 class MainTest {
